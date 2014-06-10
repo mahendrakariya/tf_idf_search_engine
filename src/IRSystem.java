@@ -753,7 +753,6 @@ public class IRSystem
       }
       else
       {
-//        String dataDir = "/home/mahendra/Learning/Stanford/Natural_Language_Processing/Programming_Assignments/7/pa7-ir-v2/data/RiderHaggard";
           String dataDir = args[0];
 
           IRSystem irSys = new IRSystem(dataDir);
